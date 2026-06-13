@@ -12,7 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://coltranebell.netlify.app',
-  'https://beltrane.netlify.app',
+  'https://belltel.netlify.app/',
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://viralbell.netlify.app',
   'https://jhvnb.vercel.app',
